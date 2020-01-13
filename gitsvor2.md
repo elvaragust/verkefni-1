@@ -21,4 +21,4 @@
    eins oft og maður getur eða eftir hvern lið
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
  Working Directory = er öll mappan sem þú ert að vinna í en í staðinn fyrir að vera með allt root og coða fyrir files þá er bara nafn.
-
+Staging Area = er best lýst sem forsýning á næsta commiti. Sem þýðir að þegar þú gerir git commit þá mun git taka breytingunum sem eru á staging area og gera nýtt commit úr þessum breytingum
