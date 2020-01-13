@@ -13,3 +13,5 @@
     git log = log sæynir hvenær þú gerðir commit og hvar
     git checkout = leifir þér að færa þig á milli branch og sjá mun
     git branch = getur sýnt þér allar branches og leifir þér að búa nýjar til og henda þeim
+4. hvað er útgáfustýring (Version Control)?
+    verson control recordar allar breytingar og ef maður breytir einhverju þá kemur nýtt version þannig að þú getur farið aftur til baka
