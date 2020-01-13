@@ -15,3 +15,5 @@
     git branch = getur sýnt þér allar branches og leifir þér að búa nýjar til og henda þeim
 4. hvað er útgáfustýring (Version Control)?
     verson control recordar allar breytingar og ef maður breytir einhverju þá kemur nýtt version þannig að þú getur farið aftur til baka
+5. verjir eru helstu kostir við að nota GIT?
+    í git geta verip margir ap vinna æi sama verkefni og afþví þetta er local þannig að það þýðir að ef einhver eiðinleggur folder eða eithvað þannig þá hefur það ekki áhrif á þig og svo er gott að hafa öll command sem þú gerðir líka
