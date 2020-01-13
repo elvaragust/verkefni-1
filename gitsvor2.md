@@ -17,3 +17,9 @@
     verson control recordar allar breytingar og ef maður breytir einhverju þá kemur nýtt version þannig að þú getur farið aftur til baka
 5. verjir eru helstu kostir við að nota GIT?
     í git geta verip margir ap vinna æi sama verkefni og afþví þetta er local þannig að það þýðir að ef einhver eiðinleggur folder eða eithvað þannig þá hefur það ekki áhrif á þig og svo er gott að hafa öll command sem þú gerðir líka
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+   eins oft og maður getur eða eftir hvern lið
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+ Working Directory = er öll mappan sem þú ert að vinna í en í staðinn fyrir að vera með allt root og coða fyrir files þá er bara nafn.
+
+Staging Area = er best lýst sem forsýning á næsta commiti. Sem þýðir að þegar þú gerir git commit þá mun git taka breytingunum sem eru á staging area og gera nýtt commit úr þessum breytingum
